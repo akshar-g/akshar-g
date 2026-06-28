@@ -1,9 +1,9 @@
-# akshar
+# hey, i'm akshar 👋
 
-learning by building.
+building things i wish existed.
 
-interested in:
+### interests
 - automation
 - ai
-- desktop applications
+- desktop software
 - open source
