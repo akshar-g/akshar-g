@@ -52,5 +52,3 @@ A lightweight autoclicker for Windows built with Python.<br/>
 </p>
 
 <a href="https://github.com/akshar-g">GitHub</a>
-
-<p align="center"><sub>Akshar Gupta · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
