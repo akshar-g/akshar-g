@@ -44,11 +44,3 @@ A lightweight autoclicker for Windows built with Python.<br/>
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=akshar-g&theme=zen" alt="akshar-g contribution activity" />
 </p>
-
-## Say hello
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=akshar-g&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174610143%3Fu%3D927f6e7bdf31b82695de408a3e0914ad64fdca03%26v%3D4" alt="akshar-g social visual" />
-</p>
-
-<a href="https://github.com/akshar-g">GitHub</a>
